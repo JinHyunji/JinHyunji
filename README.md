@@ -41,8 +41,8 @@
 
 <h2>Study</h2>
 
-- TIL
-- Algorithm
+- [TIL](https://github.com/JinHyunji/TIL.git)
+- [Algorithm](https://github.com/JinHyunji/Algorithm.git)
 
 <br>
 
