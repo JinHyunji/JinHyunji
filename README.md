@@ -43,13 +43,18 @@
 - TIL
 - Algorithm
 
+<br>
+
+<h2>Project<h2>
+
+- 
 
 
 <br>
 
 <h2>Github info</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyunji&show_icons=true&theme=radical) &nbsp ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyunji&layout=compact&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyunji&show_icons=true&theme=radical) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyunji&layout=compact&theme=radical) 
 
 <br>
 
