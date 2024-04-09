@@ -39,7 +39,7 @@
 <br>
 
 
-<h2>What I Studied</h2>
+<h2>What I Study</h2>
 
 - TIL
 - Algorithm
@@ -54,7 +54,7 @@
 <br>
 
 
-<h2>Algorithm Problem Solving</h2> 
+<h2>Problem Solving</h2> 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttn3230)](https://solved.ac/ttn3230/)
 
