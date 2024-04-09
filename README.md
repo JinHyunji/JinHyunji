@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=210&text=It's%20Profile&fontSize=60&animation=twinkling&fontColor=ffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=190&text=It's%20Profile&fontSize=40&animation=twinkling&fontColor=ffff)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinHyunji&count_bg=%23626262&title_bg=%23DE94FF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
