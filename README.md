@@ -38,6 +38,7 @@
 
 <br>
 
+
 <h2>Study</h2>
 
 - TIL
@@ -45,12 +46,13 @@
 
 <br>
 
+
 <h2>Project<h2>
 
 - sw academy
 
-
 <br>
+
 
 <h2>Github info</h2>
 
