@@ -39,7 +39,7 @@
 <br>
 
 
-<h2>What I Study</h2>
+<h2>Study</h2>
 
 - TIL
 - Algorithm
