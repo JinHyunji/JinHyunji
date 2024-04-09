@@ -38,15 +38,18 @@
 
 <br>
 
-<h2>Most used Languages</h2>
+<h2>Study</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyunji&layout=compact&theme=radical) 
+- TIL
+- Algorithm
+
+
 
 <br>
 
 <h2>Github info</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyunji&show_icons=true&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyunji&show_icons=true&theme=radical) &nbsp ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyunji&layout=compact&theme=radical) 
 
 <br>
 
