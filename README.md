@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinHyunji&count_bg=%23626262&title_bg=%23DE94FF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h2>Stacks</h2>
+<h2>Skills</h2>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -39,7 +39,7 @@
 <br>
 
 
-<h2>Study</h2>
+<h2>What I Studied</h2>
 
 - TIL
 - Algorithm
@@ -47,14 +47,14 @@
 <br>
 
 
-<h2>Github info</h2>
+<h2>Github Info</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyunji&show_icons=true&theme=radical) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyunji&layout=compact&theme=radical) 
 
 <br>
 
 
-<h2>Solved.ac</h2> 
+<h2>Algorithm Problem Solving</h2> 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttn3230)](https://solved.ac/ttn3230/)
 
