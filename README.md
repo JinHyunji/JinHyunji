@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinHyunji&count_bg=%23626262&title_bg=%23DE94FF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<br>
+
 <h2>Skills</h2>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
@@ -38,7 +40,7 @@
 <br>
 
 
-<h2>Study</h2>
+<h2>Repo for Study</h2>
 
 - [TIL](https://github.com/JinHyunji/TIL.git)
 - [Algorithm](https://github.com/JinHyunji/Algorithm.git)
@@ -48,7 +50,7 @@
 
 <h2>Github Info</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyunji&show_icons=true&theme=radical) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyunji&layout=compact&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHyunji&show_icons=true&theme=radical)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyunji&layout=compact&theme=radical) 
 
 <br>
 
