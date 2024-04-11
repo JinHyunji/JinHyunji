@@ -44,6 +44,7 @@
 
 - [TIL](https://github.com/JinHyunji/TIL.git)
 - [Algorithm](https://github.com/JinHyunji/Algorithm.git)
+- [MyDayService](https://github.com/JinHyunji/MyDayService)
 
 <br>
 
